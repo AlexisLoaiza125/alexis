@@ -1,0 +1,438 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+}
+.ropa-container{
+display: flex;
+flex-wrap: wrap;
+}
+    /* img ropa inicio */
+.img-camisaVerde {
+    background: url("img/camisa-verde.jpg");
+    width: 300px;
+    height: 300px;
+    background-size: cover;
+    background-position-x: 50%;
+    background-position-y: 50%;
+    margin: 10px 5px 10px 5px;
+}
+.img-camisaAzul {
+    background: url("img/camisa-azul.jpg");
+    width: 300px;
+    height: 300px;
+    background-size: cover;
+    background-position-x: 50%;
+    background-position-y: 50%;
+    margin: 10px 5px 10px 5px;
+}
+.img-camisaBeish {
+    background: url("img/camisa-beishverde.jpg");
+    width: 300px;
+    height: 300px;
+    background-size: cover;
+    background-position-x: 50%;
+    background-position-y: 50%;
+    margin: 10px 5px 10px 5px;
+}
+.img-camisaBlanca {
+    background: url("img/camisa-blanca.jpg");
+    width: 300px;
+    height: 300px;
+    background-size: cover;
+    background-position-x: 50%;
+    background-position-y: 50%;
+    margin: 10px 5px 10px 5px;
+}
+.img-camisaJean {
+    background: url("img/camisa-jean.jpg");
+    width: 300px;
+    height: 300px;
+    background-size: cover;
+    background-position-x: 50%;
+    background-position-y: 50%;
+    margin: 10px 5px 10px 5px;
+}
+.img-camisaRoja {
+    background: url("img/camisa-roja.jpg");
+    width: 300px;
+    height: 300px;
+    background-size: cover;
+    background-position-x: 50%;
+    background-position-y: 50%;
+    margin: 10px 5px 10px 5px;
+}
+
+
+.img-estampada {
+    background: url("img/estampada.jpg");
+    width: 300px;
+    height: 300px;
+    background-size: cover;
+    background-position-x: 50%;
+    background-position-y: 50%;
+    margin: 10px 5px 10px 5px;
+}
+.img-CamisetaOversize {
+    background: url("img/oversize.jpg");
+    width: 300px;
+    height: 300px;
+    background-size: cover;
+    background-position-x: 50%;
+    background-position-y: 50%;
+    margin: 10px 5px 10px 5px;
+}
+.img-camisetabasica {
+    background: url("img/tricolor.jpg");
+    width: 300px;
+    height: 300px;
+    background-size: cover;
+    background-position-x: 50%;
+    background-position-y: 50%;
+    margin: 10px 5px 10px 5px;
+}
+.img-MessiEntobien {
+    background: url("img/firmadaxmessi.jpg");
+    width: 300px;
+    height: 300px;
+    background-size: cover;
+    background-position-x: 50%;
+    background-position-y: 50%;
+    margin: 10px 5px 10px 5px;
+}
+
+.img-fila {
+    background: url("img/FILA.jpg");
+    width: 300px;
+    height: 300px;
+    background-size: cover;
+    background-position-x: 50%;
+    background-position-y: 50%;
+    margin: 10px 5px 10px 5px;
+}
+.img-Vans {
+    background: url("img/VANS.jpg");
+    width: 300px;
+    height: 300px;
+    background-size: cover;
+    background-position-x: 50%;
+    background-position-y: 50%;
+    margin: 10px 5px 10px 5px;
+}
+.img-Converse {
+    background: url("img/CONVERSE.jpg");
+    width: 300px;
+    height: 300px;
+    background-size: cover;
+    background-position-x: 50%;
+    background-position-y: 50%;
+    margin: 10px 5px 10px 5px;
+}
+.img-airJordan {
+    background: url("img/AIR.jpg");
+    width: 300px;
+    height: 300px;
+    background-size: cover;
+    background-position-x: 50%;
+    background-position-y: 50%;
+    margin: 10px 5px 10px 5px;
+}
+.img-Corthay {
+    background: url("img/ELEGANTE.jpg");
+    width: 300px;
+    height: 300px;
+    background-size: cover;
+    background-position-x: 50%;
+    background-position-y: 50%;
+    margin: 10px 5px 10px 5px;
+}
+
+
+.img-bermudas {
+    background: url("img/bermuda.jpg");
+    width: 300px;
+    height: 300px;
+    background-size: cover;
+    background-position-x: 50%;
+    background-position-y: 50%;
+    margin: 10px 5px 10px 5px;
+}
+.img-bermudasjean {
+    background: url("img/bermudas-de-jean.jpg");
+    width: 300px;
+    height: 300px;
+    background-size: cover;
+    background-position-x: 50%;
+    background-position-y: 50%;
+    margin: 10px 5px 10px 5px;
+}
+.img-joggers {
+    background: url("img/joggers.jpg");
+    width: 300px;
+    height: 300px;
+    background-size: cover;
+    background-position-x: 50%;
+    background-position-y: 50%;
+    margin: 10px 5px 10px 5px;
+}
+.img-chinos {
+    background: url("img/estilochino.jpg");
+    width: 300px;
+    height: 300px;
+    background-size: cover;
+    background-position-x: 50%;
+    background-position-y: 50%;
+    margin: 10px 5px 10px 5px;
+}
+.img-militar {
+    background: url("img/militar.jpg");
+    width: 300px;
+    height: 300px;
+    background-size: cover;
+    background-position-x: 50%;
+    background-position-y: 50%;
+    margin: 10px 5px 10px 5px;
+}
+.img-cargo {
+    background: url("img/tipocargo.jpg");
+    width: 300px;
+    height: 300px;
+    background-size: cover;
+    background-position-x: 50%;
+    background-position-y: 50%;
+    margin: 10px 5px 10px 5px;
+}
+.img-chandal {
+    background: url("img/chandal.jpg");
+    width: 300px;
+    height: 300px;
+    background-size: cover;
+    background-position-x: 50%;
+    background-position-y: 50%;
+    margin: 10px 5px 10px 5px;
+}
+.img-cuadros {
+    background: url("img/acuadros.jpeg");
+    width: 300px;
+    height: 300px;
+    background-size: cover;
+    background-position-x: 50%;
+    background-position-y: 50%;
+    margin: 10px 5px 10px 5px;
+}
+
+.img-NOCTA {
+    background: url("img/NOCTA.jpg");
+    width: 300px;
+    height: 300px;
+    background-size: cover;
+    background-position-x: 50%;
+    background-position-y: 50%;
+    margin: 10px 5px 10px 5px;
+}
+.img-inpermeable {
+    background: url("img/mojanot.jpg");
+    width: 300px;
+    height: 300px;
+    background-size: cover;
+    background-position-x: 50%;
+    background-position-y: 50%;
+    margin: 10px 5px 10px 5px;
+}
+.img-normies {
+    background: url("img/normies.jpg");
+    width: 300px;
+    height: 300px;
+    background-size: cover;
+    background-position-x: 50%;
+    background-position-y: 50%;
+    margin: 10px 5px 10px 5px;
+}
+.img-cuero {
+    background: url("img/cuero.jpg");
+    width: 300px;
+    height: 300px;
+    background-size: cover;
+    background-position-x: 50%;
+    background-position-y: 50%;
+    margin: 10px 5px 10px 5px;
+}
+.img-jean {
+    background: url("img/jean.jpg");
+    width: 300px;
+    height: 300px;
+    background-size: cover;
+    background-position-x: 50%;
+    background-position-y: 50%;
+    margin: 10px 5px 10px 5px;
+}
+.img-sacos {
+    background: url("img/sacos.jpg");
+    width: 300px;
+    height: 300px;
+    background-size: cover;
+    background-position-x: 50%;
+    background-position-y: 50%;
+    margin: 10px 5px 10px 5px;
+}
+.img-abrigos {
+    background: url("img/abrigo.jpg");
+    width: 300px;
+    height: 300px;
+    background-size: cover;
+    background-position-x: 50%;
+    background-position-y: 50%;
+    margin: 10px 5px 10px 5px;
+}
+.img-blazers {
+    background: url("img/blazer.jpg");
+    width: 300px;
+    height: 300px;
+    background-size: cover;
+    background-position-x: 50%;
+    background-position-y: 50%;
+    margin: 10px 5px 10px 5px;
+}
+.img-esqueletos {
+    background: url("img/esqueletos.jpg");
+    width: 300px;
+    height: 300px;
+    background-size: cover;
+    background-position-x: 50%;
+    background-position-y: 50%;
+    margin: 10px 5px 10px 5px;
+}
+.img-sudaderas {
+    background: url("img/sudaderas.jpg");
+    width: 300px;
+    height: 300px;
+    background-size: cover;
+    background-position-x: 50%;
+    background-position-y: 50%;
+    margin: 10px 5px 10px 5px;
+}
+.img-corbatas {
+    background: url("img/corbatas.jpg");
+    width: 300px;
+    height: 300px;
+    background-size: cover;
+    background-position-x: 50%;
+    background-position-y: 50%;
+    margin: 10px 5px 10px 5px;
+}
+.img-corbatines {
+    background: url("img/corbatines.jpg");
+    width: 300px;
+    height: 300px;
+    background-size: cover;
+    background-position-x: 50%;
+    background-position-y: 50%;
+    margin: 10px 5px 10px 5px;
+}
+.img-bufandas {
+    background: url("img/bufandas.jpg");
+    width: 300px;
+    height: 300px;
+    background-size: cover;
+    background-position-x: 50%;
+    background-position-y: 50%;
+    margin: 10px 5px 10px 5px;
+}
+.img-gorros {
+    background: url("img/gorros.jpg");
+    width: 300px;
+    height: 300px;
+    background-size: cover;
+    background-position-x: 50%;
+    background-position-y: 50%;
+    margin: 10px 5px 10px 5px;
+}
+.img-gorras {
+    background: url("img/gorras.jpg");
+    width: 300px;
+    height: 300px;
+    background-size: cover;
+    background-position-x: 50%;
+    background-position-y: 50%;
+    margin: 10px 5px 10px 5px;
+}
+.img-sombreros {
+    background: url("img/sombreros.jpg");
+    width: 300px;
+    height: 300px;
+    background-size: cover;
+    background-position-x: 50%;
+    background-position-y: 50%;
+    margin: 10px 5px 10px 5px;
+}
+.img-pesqueros {
+    background: url("img/pesqueros.jpg");
+    width: 300px;
+    height: 300px;
+    background-size: cover;
+    background-position-x: 50%;
+    background-position-y: 50%;
+    margin: 10px 5px 10px 5px;
+}
+.img-medias {
+    background: url("img/medias.jpg");
+    width: 300px;
+    height: 300px;
+    background-size: cover;
+    background-position-x: 50%;
+    background-position-y: 50%;
+    margin: 10px 5px 10px 5px;
+}
+.img-correa {
+    background: url("img/correa.jpg");
+    width: 300px;
+    height: 300px;
+    background-size: cover;
+    background-position-x: 50%;
+    background-position-y: 50%;
+    margin: 10px 5px 10px 5px;
+}
+.img-gafas {
+    background: url("img/gafas.jpg");
+    width: 300px;
+    height: 300px;
+    background-size: cover;
+    background-position-x: 50%;
+    background-position-y: 50%;
+    margin: 10px 5px 10px 5px;
+}
+.img-anillos {
+    background: url("img/anillos.jpg");
+    width: 300px;
+    height: 300px;
+    background-size: cover;
+    background-position-x: 50%;
+    background-position-y: 50%;
+    margin: 10px 5px 10px 5px;
+}
+.img-reloj {
+    background: url("img/reloh.jpg");
+    width: 300px;
+    height: 300px;
+    background-size: cover;
+    background-position-x: 50%;
+    background-position-y: 50%;
+    margin: 10px 5px 10px 5px;
+}
+.legend {
+    color: #fff;
+    background-color: #0000008f;
+    padding: 0 10px 0 10px;
+    width: auto;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    opacity: 0;
+    transition: opacity 1.3s;
+}   
+.legend:hover {
+    opacity: 1;
+}
+hr {
+    border: 0.1px solid #fff;
+}
